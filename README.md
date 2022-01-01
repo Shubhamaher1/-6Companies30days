@@ -9,6 +9,14 @@
 <div class="icon"><a href="https://github.com/Shubhamaher1/-6Companies30days/blob/main/Print%20Anagram%20Together%20Solution" class="fa fa-linkedin"> Solution </a></div>
 
 <br>
+<hr>
+<h3>Que No:-2</h3>
+
+<div class="icon"><a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/#" class="fa fa-linkedin">Overlapping Rectangles </a></div>
+<br>
+<div class="icon"><a href="https://github.com/Shubhamaher1/-6Companies30days/blob/main/Overlapping%20rectangles" class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
 
 
 
