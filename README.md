@@ -6,7 +6,7 @@
 
 <div class="icon"><a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/#" class="fa fa-linkedin">Print Anagrams Together </a></div>
 <br>
-<div class="icon"><a href="" class="fa fa-linkedin"> Solution </a></div>
+<div class="icon"><a href="https://github.com/Shubhamaher1/-6Companies30days/blob/main/Print%20Anagram%20Together%20Solution" class="fa fa-linkedin"> Solution </a></div>
 
 <br>
 
