@@ -17,6 +17,14 @@
 <div class="icon"><a href="https://github.com/Shubhamaher1/-6Companies30days/blob/main/Overlapping%20rectangles" class="fa fa-linkedin" target="_blank"> Solution </a></div>
 
 <br>
+<hr>
+<h3>Que No:-3</h3>
+
+<div class="icon"><a href="https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/#" class="fa fa-linkedin">Count the Subarray having product lessthan or equal to K </a></div>
+<br>
+<div class="icon"><a href="https://github.com/Shubhamaher1/-6Companies30days/blob/main/Count%20the%20subarrays%20having%20product%20less%20than%20k" class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
 
 
 
