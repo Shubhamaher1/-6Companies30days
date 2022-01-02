@@ -26,6 +26,110 @@
 <div class="icon"><a href="https://github.com/Shubhamaher1/-6Companies30days/blob/main/Count%20the%20subarrays%20having%20product%20less%20than%20k" class="fa fa-linkedin" target="_blank"> Solution </a></div>
 
 <br>
+<hr>
+<h3>Que No:-4</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-5</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-6</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-7</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-8</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-9</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-10</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-11</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-12</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-13</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-14</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-15</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
+<hr>
+<h3>Que No:-</h3>
+
+<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
+<br>
+<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+
+<br>
 
 
 
