@@ -1,0 +1,29 @@
+class Solution {
+    /* Function to get the nth ugly number*/
+    long getNthUglyNo(int n) {
+        long t []=new long[n];
+        t[0]=1;
+        int n1n=0,n2n=0,n3n=0;
+        long n1=2;
+        long n2=3;
+        long n3=5;
+        long un=0;
+        for(int i=1;i<n;i++){
+            un=Math.min(n1,Math.min(n2,n3));
+            t[i]=un;
+            if(un==n1){
+                n1n=n1n+1;
+                n1=t[n1n]*2;
+            }if(un==n2){
+                n2n=n2n+1;
+                n2=t[n2n]*3;
+            }if(un==n3){
+                n3n=n3n+1;
+                n3=t[n3n]*5;
+            }
+        }
+        return t[n-1];
+        
+        // code here
+    }
+}
