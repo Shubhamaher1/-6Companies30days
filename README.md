@@ -38,7 +38,7 @@
 <h1>All Question Ans Are given In  </h1>
 
 <br>
-<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
+<div class="icon"><a href="https://github.com/Shubhamaher1/-6Companies30days" class="fa fa-linkedin" target="_blank"> Here </a></div>
 
 <br>
 
