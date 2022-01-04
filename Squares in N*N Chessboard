@@ -1,0 +1,11 @@
+class Solution {
+    static Long squaresInChessBoard(Long N) {
+        // code here
+        long ans=0;
+        while(N!=0){
+            ans+=N*N;
+            N--;
+        }
+        return ans;
+    }
+};
