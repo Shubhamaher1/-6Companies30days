@@ -1,0 +1,35 @@
+   public String gcdOfStrings(String str1, String str2) {
+        // String s="";
+        // for(int i=0;i<Math.min(str1.length(),str2.length());i++){
+        //     if(str1.charAt(i)==str2.charAt(i)){
+        //         boolean k=false;
+        //         int l=0;
+        //         while(l<s.length()){
+        //             if(s.charAt(l)==str1.charAt(i))k=true;
+        //             l++;
+        //         }
+        //         if(k!=true)s+=str1.charAt(i);
+        //     }else if(s.length()!=0){
+        //         return s;
+        //     }
+        // }
+        // return s;
+         if(!(str1 + str2).equals(str2 + str1)){
+            return "";
+        }
+        
+        else if(str1.equals(str2)){
+            return str1;
+        }
+        
+        else if(str1.length() > str2.length()){
+            // remove str2 from str1
+            return gcdOfStrings(str1.substring(str2.length()) , str2);
+        }
+        else{
+            // remove str1 from str2
+            return gcdOfStrings(str2.substring(str1.length()) , str1);
+        }
+        
+    }
+}
