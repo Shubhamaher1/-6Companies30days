@@ -1,0 +1,14 @@
+public class solution{
+    public int[] largest(long arr[],int n,int k){
+        Arrays.sort(arr);
+        long ar[]=new long[k];
+        int j=0;
+        for(int i=n-k;i<n;i++){
+            ar[j]=arr[i];
+            j++;
+            
+        }
+        return ar;
+        
+    }
+}
