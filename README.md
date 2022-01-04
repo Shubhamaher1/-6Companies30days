@@ -27,15 +27,11 @@
 
 <br>
 <hr>
-<h3>Que No:-4</h3>
 
-<div class="icon"><a href="." class="fa fa-linkedin">..........</a></div>
-<br>
-<div class="icon"><a href="." class="fa fa-linkedin" target="_blank"> Solution </a></div>
 
 <br>
 <hr>
-<h1>All Question Ans Are given In  </h1>
+<h1>All Question Ans Are given  </h1>
 
 <br>
 <div class="icon"><a href="https://github.com/Shubhamaher1/-6Companies30days" class="fa fa-linkedin" target="_blank"> Here </a></div>
